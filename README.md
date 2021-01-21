@@ -12,7 +12,7 @@ Et enfin un fichier **properties.conf** contenant les *paths*.
 :arrow_forward: Se placer dans le repertoire cloné et ouvrir une console et taper  l'instruction:  
 "spark-submit script_brisbane.py"
 
-Les réponses attendues apparîtront progressivement. Voici un exemple de sorties.
+Les réponses attendues appaîtront progressivement. Voici un exemple de sorties.
 ## Une entête du data set 
 ![](https://github.com/ibsagno95/Brisbane_city_bike/blob/main/output/ent%C3%AAte%20du%20dataset.png)  
 
