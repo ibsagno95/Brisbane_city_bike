@@ -10,7 +10,7 @@ Le dépôt contient 4 repertoires et un fichier properties.conf.
 Et enfin un fichier **properties.conf** contenant les *paths*.
 
 :arrow_forward: Se placer dans le repertoire cloné et ouvrir une console et taper  l'instruction:  
-"spark-submit script_brisbane.py"
+"spark-submit run.py"
 
 Les réponses attendues appaîtront progressivement. Voici un exemple de sorties.
 ## Une entête du data set 
