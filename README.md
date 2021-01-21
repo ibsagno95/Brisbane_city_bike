@@ -7,7 +7,7 @@ Le dépôt contient 4 repertoires et un fichier properties.conf.
 2. **script:** Contient un notebook et script python **script_brisbane.py**  
 3. **exported:** Contient la base de données exportée contenant la longitude, la lattitude et les clusters
 4. **output:** Contient un une capture de la carte obtenue  
-Et enfin un fichier **properties.conf** contenant les *paths*.
+Et enfin un fichier **properties.conf** contenant les *paths* et un fichier **run.py** permettant de lancer le projet.
 
 :arrow_forward: Se placer dans le repertoire cloné et ouvrir une console et taper  l'instruction:  
 "spark-submit run.py"
